@@ -1,1 +1,1 @@
-# Sudoku
+# Sudoku with Solving Algorithm
